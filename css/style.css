@@ -139,7 +139,6 @@ img {
 
 @media screen and (max-width:480px){
     
-        
     
     .row{
         flex-direction: column;
@@ -161,6 +160,14 @@ img {
 
     .col:last-child{
         margin-top: 60px;
+    }
+
+    .why-us .col-left{
+        width: 80%;
+    }
+
+    .why-us .col-right{
+        width:80% ;
     }
     
     
