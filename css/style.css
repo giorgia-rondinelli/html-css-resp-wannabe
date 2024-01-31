@@ -154,6 +154,14 @@ img {
     .col:first-child{
         margin-bottom: 60px;
     }
+
+    .steps .col{
+        width: 80%;
+    }
+
+    .col:last-child{
+        margin-top: 60px;
+    }
     
     
     
