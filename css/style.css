@@ -135,7 +135,26 @@ img {
         width: 100%;
     
     }    
-   
+}
+
+@media screen and (max-width:480px){
+    
+        
+    
+    .row{
+        flex-direction: column;
+        align-items: center;
 
 
+    }
+    .lessons .col{
+        width: 80%;
+         
+    }
+    .col:first-child{
+        margin-bottom: 60px;
+    }
+    
+    
+    
 }
